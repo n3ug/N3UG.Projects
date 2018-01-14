@@ -7,3 +7,4 @@ Below is a list of ideas that have been raised by our members. If you would like
 
 # Project Ideas #
 1. [Re-Write the N3UG Web Site](https://github.com/n3ug/N3UG.Projects/issues/1)
+2. [Build an IoT project using Windows 10 and Raspberry Pi](https://github.com/n3ug/N3UG.Projects/issues/2)
